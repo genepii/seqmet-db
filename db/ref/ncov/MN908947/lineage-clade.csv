@@ -1,0 +1,953 @@
+A,19B
+A.1,19B
+A.2,19B
+A.2.2,19B
+A.2.3,19B
+A.2.5,19B
+A.2.5.1,19B
+A.2.5.2,19B
+A.23.1,19B
+A.27,19B
+A.28,19B
+A.3,19B
+A.5,19B
+A.6,19B
+AA.2,20E (EU1)
+AA.4,20E (EU1)
+AD.1,20B
+AD.2,20B
+AE.8,20B
+AL.1,20B
+AT.1,20B
+AU.1,20A
+AU.2,20A
+AU.3,20A
+AW.1,20B
+AY.1,21J (Delta)
+AY.10,21I (Delta)
+AY.100,21J (Delta)
+AY.101,21J (Delta)
+AY.102,21J (Delta)
+AY.102.1,21J (Delta)
+AY.102.2,21J (Delta)
+AY.103,21J (Delta)
+AY.103.1,21J (Delta)
+AY.103.2,21J (Delta)
+AY.104,21J (Delta)
+AY.105,21J (Delta)
+AY.106,21J (Delta)
+AY.107,21J (Delta)
+AY.108,21J (Delta)
+AY.109,21J (Delta)
+AY.11,21I (Delta)
+AY.110,21J (Delta)
+AY.111,21J (Delta)
+AY.112,21J (Delta)
+AY.112.2,21J (Delta)
+AY.112.3,21J (Delta)
+AY.113,21J (Delta)
+AY.114,21J (Delta)
+AY.116,21J (Delta)
+AY.116.1,21J (Delta)
+AY.117,21J (Delta)
+AY.118,21J (Delta)
+AY.119,21J (Delta)
+AY.119.1,21J (Delta)
+AY.119.2,21J (Delta)
+AY.120,21J (Delta)
+AY.120.1,21J (Delta)
+AY.120.2,21J (Delta)
+AY.120.2.1,21J (Delta)
+AY.121,21J (Delta)
+AY.121.1,21J (Delta)
+AY.122,21J (Delta)
+AY.122.1,21J (Delta)
+AY.122.2,21J (Delta)
+AY.122.3,21J (Delta)
+AY.122.4,21J (Delta)
+AY.122.5,21J (Delta)
+AY.122.6,21J (Delta)
+AY.123,21J (Delta)
+AY.123.1,21J (Delta)
+AY.124,21J (Delta)
+AY.124.1,21J (Delta)
+AY.124.1.1,21J (Delta)
+AY.125,21J (Delta)
+AY.125.1,21J (Delta)
+AY.126,21J (Delta)
+AY.127,21J (Delta)
+AY.127.1,21J (Delta)
+AY.128,21J (Delta)
+AY.129,21J (Delta)
+AY.13,21A (Delta)
+AY.131,21J (Delta)
+AY.132,21J (Delta)
+AY.133,21I (Delta)
+AY.134,21J (Delta)
+AY.14,21A (Delta)
+AY.15,21A (Delta)
+AY.16,21A (Delta)
+AY.16.1,21A (Delta)
+AY.17,21A (Delta)
+AY.18,21A (Delta)
+AY.19,21A (Delta)
+AY.2,21I (Delta)
+AY.20,21J (Delta)
+AY.20.1,21J (Delta)
+AY.21,21J (Delta)
+AY.22,21J (Delta)
+AY.23,21J (Delta)
+AY.23.1,21J (Delta)
+AY.23.2,21J (Delta)
+AY.24,21I (Delta)
+AY.24.1,21I (Delta)
+AY.25,21J (Delta)
+AY.25.1,21J (Delta)
+AY.25.1.1,21J (Delta)
+AY.25.1.2,21J (Delta)
+AY.25.2,21J (Delta)
+AY.25.3,21J (Delta)
+AY.26,21I (Delta)
+AY.26.1,21I (Delta)
+AY.27,21I (Delta)
+AY.28,21I (Delta)
+AY.29,21J (Delta)
+AY.29.1,21J (Delta)
+AY.29.2,21J (Delta)
+AY.3,21J (Delta)
+AY.3.1,21J (Delta)
+AY.3.2,21J (Delta)
+AY.3.3,21J (Delta)
+AY.30,21A (Delta)
+AY.32,21J (Delta)
+AY.33,21J (Delta)
+AY.33.1,21J (Delta)
+AY.33.2,21J (Delta)
+AY.34,21J (Delta)
+AY.34.1,21J (Delta)
+AY.34.1.1,21J (Delta)
+AY.34.2,21J (Delta)
+AY.35,21A (Delta)
+AY.36,21J (Delta)
+AY.36.1,21J (Delta)
+AY.37,21I (Delta)
+AY.38,21I (Delta)
+AY.39,21J (Delta)
+AY.39.1,21J (Delta)
+AY.39.1.1,21J (Delta)
+AY.39.1.2,21J (Delta)
+AY.39.1.3,21J (Delta)
+AY.39.1.4,21J (Delta)
+AY.39.2,21J (Delta)
+AY.4,21J (Delta)
+AY.4.1,21J (Delta)
+AY.4.10,21J (Delta)
+AY.4.11,21J (Delta)
+AY.4.12,21J (Delta)
+AY.4.13,21J (Delta)
+AY.4.14,21J (Delta)
+AY.4.15,21J (Delta)
+AY.4.16,21J (Delta)
+AY.4.17,21J (Delta)
+AY.4.2,21J (Delta)
+AY.4.2.1,21J (Delta)
+AY.4.2.2,21J (Delta)
+AY.4.2.3,21J (Delta)
+AY.4.2.4,21J (Delta)
+AY.4.2.5,21J (Delta)
+AY.4.3,21J (Delta)
+AY.4.4,21J (Delta)
+AY.4.5,21J (Delta)
+AY.4.6,21J (Delta)
+AY.4.7,21J (Delta)
+AY.4.8,21J (Delta)
+AY.4.9,21J (Delta)
+AY.40,21A (Delta)
+AY.41,21J (Delta)
+AY.42,21J (Delta)
+AY.42.1,21J (Delta)
+AY.43,21J (Delta)
+AY.43.1,21J (Delta)
+AY.43.2,21J (Delta)
+AY.43.3,21J (Delta)
+AY.43.4,21J (Delta)
+AY.43.5,21J (Delta)
+AY.43.6,21J (Delta)
+AY.43.7,21J (Delta)
+AY.43.8,21J (Delta)
+AY.43.9,21J (Delta)
+AY.44,21J (Delta)
+AY.45,21J (Delta)
+AY.46,21J (Delta)
+AY.46.1,21J (Delta)
+AY.46.2,21J (Delta)
+AY.46.3,21J (Delta)
+AY.46.4,21J (Delta)
+AY.46.5,21J (Delta)
+AY.46.6,21J (Delta)
+AY.46.6.1,21J (Delta)
+AY.47,21I (Delta)
+AY.48,21A (Delta)
+AY.49,21A (Delta)
+AY.5,21J (Delta)
+AY.5.1,21J (Delta)
+AY.5.2,21J (Delta)
+AY.5.3,21J (Delta)
+AY.5.4,21J (Delta)
+AY.5.5,21J (Delta)
+AY.5.7,21J (Delta)
+AY.50,21A (Delta)
+AY.51,21A (Delta)
+AY.52,21A (Delta)
+AY.53,21A (Delta)
+AY.54,21A (Delta)
+AY.55,21I (Delta)
+AY.56,21I (Delta)
+AY.57,21I (Delta)
+AY.58,21I (Delta)
+AY.59,21I (Delta)
+AY.6,21J (Delta)
+AY.60,21I (Delta)
+AY.61,21I (Delta)
+AY.62,21I (Delta)
+AY.63,21I (Delta)
+AY.64,21I (Delta)
+AY.65,21I (Delta)
+AY.66,21I (Delta)
+AY.67,21I (Delta)
+AY.68,21I (Delta)
+AY.69,21I (Delta)
+AY.7,21J (Delta)
+AY.7.1,21J (Delta)
+AY.7.2,21J (Delta)
+AY.70,21I (Delta)
+AY.71,21I (Delta)
+AY.72,21I (Delta)
+AY.73,21I (Delta)
+AY.74,21I (Delta)
+AY.75,21I (Delta)
+AY.75.2,21I (Delta)
+AY.75.3,21I (Delta)
+AY.76,21J (Delta)
+AY.77,21J (Delta)
+AY.78,21J (Delta)
+AY.79,21J (Delta)
+AY.8,21A (Delta)
+AY.80,21J (Delta)
+AY.81,21J (Delta)
+AY.82,21J (Delta)
+AY.83,21J (Delta)
+AY.84,21J (Delta)
+AY.85,21J (Delta)
+AY.86,21J (Delta)
+AY.87,21J (Delta)
+AY.88,21J (Delta)
+AY.9,21I (Delta)
+AY.9.2,21I (Delta)
+AY.9.2.1,21I (Delta)
+AY.9.2.2,21I (Delta)
+AY.90,21J (Delta)
+AY.91,21J (Delta)
+AY.91.1,21J (Delta)
+AY.92,21J (Delta)
+AY.93,21J (Delta)
+AY.94,21J (Delta)
+AY.95,21J (Delta)
+AY.98,21J (Delta)
+AY.98.1,21J (Delta)
+AY.99,21J (Delta)
+AY.99.1,21J (Delta)
+AY.99.2,21J (Delta)
+AZ.1,20B
+AZ.2,20B
+AZ.2.1,20B
+AZ.3,20B
+AZ.4,20B
+AZ.5,20B
+B,19A
+B.1,20A
+B.1.1,20B
+B.1.1.1,20D
+B.1.1.10,20B
+B.1.1.113,20B
+B.1.1.115,20B
+B.1.1.118,20B
+B.1.1.121,20B
+B.1.1.128,20B
+B.1.1.133,20B
+B.1.1.135,20B
+B.1.1.138,20B
+B.1.1.141,20B
+B.1.1.142,20B
+B.1.1.148,20B
+B.1.1.153,20B
+B.1.1.157,20B
+B.1.1.159,20B
+B.1.1.163,20B
+B.1.1.164,20B
+B.1.1.170,20B
+B.1.1.171,20B
+B.1.1.174,20B
+B.1.1.176,20B
+B.1.1.181,20B
+B.1.1.186,20B
+B.1.1.189,20B
+B.1.1.191,20B
+B.1.1.192,20B
+B.1.1.194,20B
+B.1.1.196,20B
+B.1.1.198,20B
+B.1.1.200,20B
+B.1.1.204,20B
+B.1.1.205,20B
+B.1.1.207,20B
+B.1.1.210,20B
+B.1.1.214,20B
+B.1.1.216,20B
+B.1.1.217,20B
+B.1.1.220,20B
+B.1.1.222,20B
+B.1.1.225,20B
+B.1.1.226,20B
+B.1.1.227,20B
+B.1.1.228,20B
+B.1.1.229,20B
+B.1.1.231,20B
+B.1.1.232,20B
+B.1.1.237,20B
+B.1.1.241,20B
+B.1.1.243,20B
+B.1.1.25,20B
+B.1.1.251,20B
+B.1.1.253,20B
+B.1.1.255,20B
+B.1.1.258,20B
+B.1.1.26,20B
+B.1.1.263,20B
+B.1.1.269,20B
+B.1.1.27,20B
+B.1.1.272,20B
+B.1.1.273,20B
+B.1.1.274,20B
+B.1.1.277,20B
+B.1.1.279,20B
+B.1.1.28,20B
+B.1.1.280,20B
+B.1.1.284,20B
+B.1.1.285,20B
+B.1.1.286,20B
+B.1.1.288,20B
+B.1.1.289,20B
+B.1.1.291,20B
+B.1.1.294,20B
+B.1.1.297,20B
+B.1.1.298,20B
+B.1.1.301,20B
+B.1.1.302,20B
+B.1.1.303,20B
+B.1.1.304,20B
+B.1.1.305,20B
+B.1.1.306,20B
+B.1.1.307,20B
+B.1.1.309,20B
+B.1.1.311,20B
+B.1.1.312,20B
+B.1.1.316,20B
+B.1.1.317,20B
+B.1.1.318,20B
+B.1.1.326,20B
+B.1.1.329,20B
+B.1.1.33,20B
+B.1.1.348,20B
+B.1.1.351,20B
+B.1.1.354,20B
+B.1.1.362,20B
+B.1.1.363,20B
+B.1.1.365,20B
+B.1.1.368,20B
+B.1.1.369,20B
+B.1.1.37,20B
+B.1.1.372,20B
+B.1.1.374,20B
+B.1.1.376,20B
+B.1.1.377,20B
+B.1.1.385,20B
+B.1.1.389,20B
+B.1.1.39,20B
+B.1.1.391,20B
+B.1.1.397,20B
+B.1.1.398,20B
+B.1.1.4,20B
+B.1.1.406,20B
+B.1.1.41,20B
+B.1.1.412,20B
+B.1.1.413,20B
+B.1.1.416,20B
+B.1.1.417,20B
+B.1.1.420,20B
+B.1.1.429,20B
+B.1.1.432,20B
+B.1.1.433,20B
+B.1.1.434,20B
+B.1.1.44,20B
+B.1.1.448,20B
+B.1.1.453,20B
+B.1.1.46,20B
+B.1.1.464,20B
+B.1.1.47,20B
+B.1.1.48,20B
+B.1.1.486,20B
+B.1.1.5,20B
+B.1.1.50,20B
+B.1.1.51,20B
+B.1.1.517,20B
+B.1.1.519,20B
+B.1.1.521,20B
+B.1.1.523,20B
+B.1.1.526,20B
+B.1.1.528,20B
+B.1.1.54,20B
+B.1.1.58,20B
+B.1.1.59,20B
+B.1.1.63,20B
+B.1.1.67,20B
+B.1.1.7,20I (Alpha, V1)
+B.1.1.70,20B
+B.1.1.71,20B
+B.1.1.74,20B
+B.1.1.8,20B
+B.1.1.83,20B
+B.1.1.89,20B
+B.1.104,20A
+B.1.108,20C
+B.1.110,20A
+B.1.110.3,20A
+B.1.111,20A
+B.1.112,20A
+B.1.118,20C
+B.1.120,20C
+B.1.126,20A
+B.1.128,20A
+B.1.13,20A
+B.1.134,20A
+B.1.137,20A
+B.1.139,20A
+B.1.142,20A
+B.1.146,20A
+B.1.147,20A
+B.1.157,20A
+B.1.160,20A
+B.1.160.11,20A
+B.1.160.12,20A
+B.1.160.14,20A
+B.1.160.15,20A
+B.1.160.16,20A
+B.1.160.17,20A
+B.1.160.22,20A
+B.1.160.23,20A
+B.1.160.24,20A
+B.1.160.26,20A
+B.1.160.28,20A
+B.1.160.29,20A
+B.1.160.30,20A
+B.1.160.32,20A
+B.1.160.33,20A
+B.1.160.7,20A
+B.1.160.8,20A
+B.1.162,20A
+B.1.166,20C
+B.1.167,20C
+B.1.177,20E (EU1)
+B.1.177.10,20E (EU1)
+B.1.177.11,20E (EU1)
+B.1.177.12,20E (EU1)
+B.1.177.14,20E (EU1)
+B.1.177.15,20E (EU1)
+B.1.177.16,20E (EU1)
+B.1.177.17,20E (EU1)
+B.1.177.18,20E (EU1)
+B.1.177.19,20E (EU1)
+B.1.177.2,20E (EU1)
+B.1.177.20,20E (EU1)
+B.1.177.21,20E (EU1)
+B.1.177.23,20E (EU1)
+B.1.177.24,20E (EU1)
+B.1.177.26,20E (EU1)
+B.1.177.27,20E (EU1)
+B.1.177.3,20E (EU1)
+B.1.177.30,20E (EU1)
+B.1.177.32,20E (EU1)
+B.1.177.33,20E (EU1)
+B.1.177.35,20E (EU1)
+B.1.177.4,20E (EU1)
+B.1.177.40,20E (EU1)
+B.1.177.41,20E (EU1)
+B.1.177.42,20E (EU1)
+B.1.177.43,20E (EU1)
+B.1.177.44,20E (EU1)
+B.1.177.45,20E (EU1)
+B.1.177.46,20E (EU1)
+B.1.177.48,20E (EU1)
+B.1.177.5,20E (EU1)
+B.1.177.50,20E (EU1)
+B.1.177.51,20E (EU1)
+B.1.177.52,20E (EU1)
+B.1.177.53,20E (EU1)
+B.1.177.54,20E (EU1)
+B.1.177.55,20E (EU1)
+B.1.177.56,20E (EU1)
+B.1.177.57,20E (EU1)
+B.1.177.58,20E (EU1)
+B.1.177.6,20E (EU1)
+B.1.177.60,20E (EU1)
+B.1.177.62,20E (EU1)
+B.1.177.63,20E (EU1)
+B.1.177.65,20E (EU1)
+B.1.177.67,20E (EU1)
+B.1.177.69,20E (EU1)
+B.1.177.7,20E (EU1)
+B.1.177.70,20E (EU1)
+B.1.177.72,20E (EU1)
+B.1.177.73,20E (EU1)
+B.1.177.75,20E (EU1)
+B.1.177.76,20E (EU1)
+B.1.177.77,20E (EU1)
+B.1.177.8,20E (EU1)
+B.1.177.80,20E (EU1)
+B.1.177.81,20E (EU1)
+B.1.177.82,20E (EU1)
+B.1.177.83,20E (EU1)
+B.1.177.84,20E (EU1)
+B.1.177.85,20E (EU1)
+B.1.177.86,20E (EU1)
+B.1.177.87,20E (EU1)
+B.1.177.9,20E (EU1)
+B.1.179,20A
+B.1.182,20A
+B.1.189,20A
+B.1.195,20A
+B.1.199,20A
+B.1.2,20G
+B.1.201,20A
+B.1.206,20A
+B.1.210,20A
+B.1.214.4,20A
+B.1.22,20A
+B.1.221,20A
+B.1.221.1,20A
+B.1.221.2,20A
+B.1.221.3,20A
+B.1.221.4,20A
+B.1.222,20A
+B.1.223,20A
+B.1.23,20A
+B.1.232,20A
+B.1.234,20A
+B.1.235,20A
+B.1.236,20A
+B.1.239,20A
+B.1.240,20A
+B.1.241,20A
+B.1.243,20A
+B.1.258,20A
+B.1.258.11,20A
+B.1.258.12,20A
+B.1.258.14,20A
+B.1.258.16,20A
+B.1.258.17,20A
+B.1.258.19,20A
+B.1.258.2,20A
+B.1.258.21,20A
+B.1.258.22,20A
+B.1.258.3,20A
+B.1.258.7,20A
+B.1.258.9,20A
+B.1.265,20C
+B.1.270,20A
+B.1.279,20A
+B.1.280,20A
+B.1.289,20C
+B.1.298,20C
+B.1.3,20C
+B.1.301,20C
+B.1.305,20C
+B.1.306,20C
+B.1.311,20C
+B.1.313,20C
+B.1.314,20C
+B.1.315,20C
+B.1.319,20C
+B.1.320,20C
+B.1.324,20C
+B.1.325,20C
+B.1.329,20C
+B.1.332,20C
+B.1.336,20C
+B.1.340,20C
+B.1.346,20C
+B.1.349,20C
+B.1.350,20C
+B.1.351,20H (Beta, V2)
+B.1.351.2,20H (Beta, V2)
+B.1.351.3,20H (Beta, V2)
+B.1.351.5,20H (Beta, V2)
+B.1.356,20C
+B.1.36,20A
+B.1.36.1,20A
+B.1.36.16,20A
+B.1.36.17,20A
+B.1.36.18,20A
+B.1.36.21,20A
+B.1.36.22,20A
+B.1.36.25,20A
+B.1.36.27,20A
+B.1.36.28,20A
+B.1.36.29,20A
+B.1.36.31,20A
+B.1.36.35,20A
+B.1.36.36,20A
+B.1.36.37,20A
+B.1.36.38,20A
+B.1.36.39,20A
+B.1.36.7,20A
+B.1.36.8,20A
+B.1.36.9,20A
+B.1.361,20C
+B.1.362,20C
+B.1.362.2,20C
+B.1.366,20C
+B.1.367,20C
+B.1.369,20C
+B.1.375,20C
+B.1.377,20A
+B.1.378,20A
+B.1.380,20A
+B.1.384,20A
+B.1.389,20A
+B.1.39,20C
+B.1.391,20A
+B.1.396,20A
+B.1.397,20A
+B.1.398,20A
+B.1.399,20A
+B.1.400,20A
+B.1.401,20A
+B.1.403,20A
+B.1.404,20A
+B.1.408,20A
+B.1.409,20A
+B.1.413,20C
+B.1.415.1,20A
+B.1.416,20A
+B.1.416.1,20A
+B.1.421,20A
+B.1.422,20C
+B.1.424,20C
+B.1.425,20C
+B.1.426,20C
+B.1.427,21C (Epsilon)
+B.1.428,20C
+B.1.429,21C (Epsilon)
+B.1.433,20C
+B.1.436,20A
+B.1.438.1,20A
+B.1.439,20A
+B.1.44,20C
+B.1.441,20A
+B.1.443,20A
+B.1.448,20C
+B.1.453,20C
+B.1.463,20A
+B.1.465,20A
+B.1.466.1,20A
+B.1.466.2,20A
+B.1.469,20A
+B.1.470,20A
+B.1.471,20A
+B.1.474,20A
+B.1.480,20A
+B.1.495,20C
+B.1.497,20C
+B.1.499,20C
+B.1.503,20C
+B.1.505,20C
+B.1.509,20C
+B.1.516,20C
+B.1.517,20C
+B.1.517.1,20C
+B.1.523,20A
+B.1.524,20A
+B.1.525,21D (Eta)
+B.1.526,21F (Iota)
+B.1.532,20B
+B.1.546,20A
+B.1.548,20B
+B.1.549,20A
+B.1.551,20A
+B.1.558,20A
+B.1.560,20B
+B.1.561,20A
+B.1.564,20C
+B.1.564.1,20C
+B.1.565,20A
+B.1.567,20C
+B.1.568,20C
+B.1.570,20C
+B.1.573,20C
+B.1.574,20C
+B.1.575,20C
+B.1.575.1,20C
+B.1.575.2,20C
+B.1.576,20C
+B.1.577,20C
+B.1.580,20C
+B.1.582,20C
+B.1.587,20C
+B.1.588,20C
+B.1.589,20C
+B.1.590,20C
+B.1.595,20C
+B.1.595.1,20C
+B.1.595.4,20C
+B.1.596,20G
+B.1.597,20C
+B.1.600,20A
+B.1.602,20A
+B.1.605,20C
+B.1.606,20C
+B.1.609,20A
+B.1.612,20C
+B.1.617.1,21B (Kappa)
+B.1.617.2,21J (Delta)
+B.1.617.3,20A
+B.1.618,20A
+B.1.619,20A
+B.1.619.1,20A
+B.1.620,20A
+B.1.621,21H (Mu)
+B.1.621.1,21H (Mu)
+B.1.623,20C
+B.1.625,20A
+B.1.626,20C
+B.1.627,20A
+B.1.630,20C
+B.1.631,20A
+B.1.632,20C
+B.1.634,20A
+B.1.637,20C
+B.1.640.1,20A
+B.1.8,20A
+B.1.88.1,20A
+B.1.9,20A
+B.1.9.5,20A
+B.1.91,20A
+B.1.93,20A
+B.11,19A
+B.12,19A
+B.23,19A
+B.28,19A
+B.29,19A
+B.3,19A
+B.3.1,19A
+B.31,19A
+B.33,19A
+B.39,19A
+B.4,19A
+B.40,19A
+B.41,19A
+B.45,19A
+B.55,19A
+B.59,20B
+B.6,19A
+B.6.6,19A
+B.61,19A
+BA.1,21K (Omicron)
+BA.1.1,21K (Omicron)
+BA.1.1.1,21K (Omicron)
+BA.1.1.10,21K (Omicron)
+BA.1.1.11,21K (Omicron)
+BA.1.1.12,21K (Omicron)
+BA.1.1.13,21K (Omicron)
+BA.1.1.14,21K (Omicron)
+BA.1.1.15,21K (Omicron)
+BA.1.1.16,21K (Omicron)
+BA.1.1.17,21K (Omicron)
+BA.1.1.18,21K (Omicron)
+BA.1.1.2,21K (Omicron)
+BA.1.1.3,21K (Omicron)
+BA.1.1.4,21K (Omicron)
+BA.1.1.5,21K (Omicron)
+BA.1.1.6,21K (Omicron)
+BA.1.1.7,21K (Omicron)
+BA.1.1.8,21K (Omicron)
+BA.1.1.9,21K (Omicron)
+BA.1.10,21K (Omicron)
+BA.1.12,21K (Omicron)
+BA.1.13,21K (Omicron)
+BA.1.13.1,21K (Omicron)
+BA.1.14,21K (Omicron)
+BA.1.14.1,21K (Omicron)
+BA.1.14.2,21K (Omicron)
+BA.1.15,21K (Omicron)
+BA.1.15.1,21K (Omicron)
+BA.1.15.2,21K (Omicron)
+BA.1.16,21K (Omicron)
+BA.1.16.1,21K (Omicron)
+BA.1.17,21K (Omicron)
+BA.1.17.1,21K (Omicron)
+BA.1.17.2,21K (Omicron)
+BA.1.18,21K (Omicron)
+BA.1.19,21K (Omicron)
+BA.1.2,21K (Omicron)
+BA.1.20,21K (Omicron)
+BA.1.21,21K (Omicron)
+BA.1.21.1,21K (Omicron)
+BA.1.3,21K (Omicron)
+BA.1.4,21K (Omicron)
+BA.1.5,21K (Omicron)
+BA.1.6,21K (Omicron)
+BA.1.7,21K (Omicron)
+BA.1.8,21K (Omicron)
+BA.1.9,21K (Omicron)
+BA.2,21L (Omicron)
+BA.2.1,21L (Omicron)
+BA.2.10,21L (Omicron)
+BA.2.10.1,21L (Omicron)
+BA.2.10.2,21L (Omicron)
+BA.2.11,21L (Omicron)
+BA.2.12,21L (Omicron)
+BA.2.12.1,22C (Omicron)
+BA.2.13,21L (Omicron)
+BA.2.14,21L (Omicron)
+BA.2.15,21L (Omicron)
+BA.2.16,21L (Omicron)
+BA.2.17,21L (Omicron)
+BA.2.18,21L (Omicron)
+BA.2.19,21L (Omicron)
+BA.2.2,21L (Omicron)
+BA.2.20,21L (Omicron)
+BA.2.21,21L (Omicron)
+BA.2.22,21L (Omicron)
+BA.2.23,21L (Omicron)
+BA.2.23.1,21L (Omicron)
+BA.2.24,21L (Omicron)
+BA.2.25,21L (Omicron)
+BA.2.26,21L (Omicron)
+BA.2.27,21L (Omicron)
+BA.2.29,21L (Omicron)
+BA.2.3,21L (Omicron)
+BA.2.3.1,21L (Omicron)
+BA.2.3.2,21L (Omicron)
+BA.2.3.4,21L (Omicron)
+BA.2.30,21L (Omicron)
+BA.2.31,21L (Omicron)
+BA.2.32,21L (Omicron)
+BA.2.33,21L (Omicron)
+BA.2.34,21L (Omicron)
+BA.2.35,21L (Omicron)
+BA.2.36,21L (Omicron)
+BA.2.37,21L (Omicron)
+BA.2.38,21L (Omicron)
+BA.2.39,21L (Omicron)
+BA.2.4,21L (Omicron)
+BA.2.40,21L (Omicron)
+BA.2.40.1,21L (Omicron)
+BA.2.41,21L (Omicron)
+BA.2.5,21L (Omicron)
+BA.2.6,21L (Omicron)
+BA.2.7,21L (Omicron)
+BA.2.8,21L (Omicron)
+BA.2.9,21L (Omicron)
+BA.2.9.1,21L (Omicron)
+BA.2.9.2,21L (Omicron)
+BA.3,21M (Omicron)
+BA.3.1,21M (Omicron)
+BA.4,22A (Omicron)
+BA.5,22B (Omicron)
+BA.5.1,22B (Omicron)
+BB.1,21H (Mu)
+BB.2,21H (Mu)
+C.1,20D
+C.12,20D
+C.14,20D
+C.16,20D
+C.17,20D
+C.18,20D
+C.2.1,20D
+C.23,20D
+C.26,20D
+C.3,20D
+C.30,20D
+C.30.1,20D
+C.35,20D
+C.36,20D
+C.36.3,20D
+C.36.3.1,20D
+C.37,21G (Lambda)
+C.37.1,21G (Lambda)
+C.8,20D
+D.2,20F
+D.3,20B
+K.3,20B
+L.1,20B
+L.3,20B
+N.3,20B
+N.4,20B
+N.5,20B
+N.6,20B
+N.9,20B
+P.1,20J (Gamma, V3)
+P.1.1,20J (Gamma, V3)
+P.1.10,20J (Gamma, V3)
+P.1.11,20J (Gamma, V3)
+P.1.12,20J (Gamma, V3)
+P.1.12.1,20J (Gamma, V3)
+P.1.13,20J (Gamma, V3)
+P.1.14,20J (Gamma, V3)
+P.1.15,20J (Gamma, V3)
+P.1.16,20J (Gamma, V3)
+P.1.17,20J (Gamma, V3)
+P.1.17.1,20J (Gamma, V3)
+P.1.2,20J (Gamma, V3)
+P.1.4,20J (Gamma, V3)
+P.1.6,20J (Gamma, V3)
+P.1.7,20J (Gamma, V3)
+P.1.7.1,20J (Gamma, V3)
+P.1.8,20J (Gamma, V3)
+P.1.9,20J (Gamma, V3)
+P.2,20B
+P.3,21E (Theta)
+P.4,20B
+P.6,20B
+P.7,20B
+Q.1,20I (Alpha, V1)
+Q.2,20I (Alpha, V1)
+Q.3,20I (Alpha, V1)
+Q.4,20I (Alpha, V1)
+Q.6,20I (Alpha, V1)
+Q.7,20I (Alpha, V1)
+Q.8,20I (Alpha, V1)
+R.1,20B
+U.3,20E (EU1)
+W.1,20E (EU1)
+W.2,20E (EU1)
+W.3,20E (EU1)
+W.4,20E (EU1)
+XA,recombinant
+XB,recombinant
+XC,recombinant
+XD,recombinant
+XE,recombinant
+XF,recombinant
+XG,recombinant
+XH,recombinant
+XJ,recombinant
+XL,recombinant
+XM,recombinant
+XN,recombinant
+XP,recombinant
+XQ,recombinant
+XR,recombinant
+XS,recombinant
+XT,recombinant
+Z.1,20E (EU1)

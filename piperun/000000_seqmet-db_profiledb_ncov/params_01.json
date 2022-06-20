@@ -1,0 +1,82 @@
+{
+"version" : "",
+    
+"fasta" : [
+    "/path/to/seqmet-db/data/full_fast.fasta"
+],
+
+"tmp" : "/path/to/seqmet-db/tmp/",
+"result" : "/path/to/seqmet-db/result/000000_seqmet-db_profiledb_ncov/",
+"workflow" : "profiledb",
+
+"filter_fasta" : {
+    "todo" : 1,
+    "mincoverage" : 0.9,
+    "ref" : "/path/to/seqmet-db/db/ref/ncov/MN908947/MN908947.fna"
+},
+
+"gentsv_nextclade" : {
+    "todo" : 1,
+    "dataset" : [
+        ["MN908947", "/path/to/seqmet-db/db/nextclade/sars-cov-2_220428/"]
+    ]
+},
+
+"gentsv_pangolin" : {
+    "todo" : 1,
+    "usher_assignments" : "/path/to/seqmet-db/db/pangolin/usher_assignments-v1.9.cache.csv.gz"
+},
+
+"join_assignment" : {
+    "todo" : 1
+},
+
+"filter_assignment" : {
+    "todo" : 1,
+    "minseq" : 100,
+    "added_lineage" : "/path/to/seqmet-db/db/ref/ncov/MN908947/added_lineage.txt",
+    "downsample" : 100
+},
+
+"downsample_fasta" : {
+    "todo" : 1
+},
+
+"assign_fasta" : {
+    "todo" : 1
+},
+
+"map_minimap2" : {
+    "todo" : 1,
+    "ref" : [
+        "/path/to/seqmet-db/db/ref/ncov/MN908947/MN908947.fna"
+    ]
+},
+
+"callvar_freebayes" : {
+    "todo" : 1,
+    "theta" : 0.001,
+    "ploidy" : 1,
+    "use-best-n-alleles" : 2,
+    "haplotype_length" : 1,
+    "genotyping-max-iterations" : 10,
+    "genotyping-max-banddepth" : 4,
+    "min_mapping_quality" : 0,
+    "min_base_quality" : 0,
+    "min_var_depth" : 1,
+    "min_depth" : 1,
+    "bcftools_filter" : "AF >= 0.05"
+},
+
+"gentsv_mutprofile" : {
+    "todo" : 1,
+    "header" : "lineage,clade"
+},
+
+"gentsv_mutmatrix" : {
+    "todo" : 1,
+    "lineage-clade" : "/path/to/seqmet-db/db/ref/ncov/MN908947/lineage-clade.csv",
+    "lineage-comment" : "/path/to/seqmet-db/db/ref/ncov/MN908947/lineage-comment.csv"
+}
+
+}

@@ -1,0 +1,7 @@
+# Ignore everything in this directory
+*
+# Except these files
+!.gitignore
+!launch_piperun.sh
+!000000_seqmet-db_profiledb_ncov/
+!000000_seqmet-db_profiledb_ncov/params_01.json

@@ -1,0 +1,21 @@
+name: pangolin
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - biopython>=1.74
+  - minimap2>=2.16
+  - pip=19.3.1
+  - python>=3.7
+  - snakemake-minimal<=6.8.0
+  - gofasta
+  - pysam==0.16.0.1
+  - ucsc-fatovcf>=426
+  - usher>=0.5.4
+  - git-lfs
+  - pip:
+    - git+https://github.com/cov-lineages/pangolin-data.git@v1.9
+    - git+https://github.com/cov-lineages/pangolin-assignment.git@v1.9
+    - git+https://github.com/cov-lineages/scorpio.git@v0.3.17
+    - git+https://github.com/cov-lineages/constellations.git@v0.1.10
